@@ -11,7 +11,7 @@ run npm i && npm start
 It will call this api hosted on heroku: https://memories-posts-2021.herokuapp.com/posts
 
 
-If you want to set up just the server you will need to set up your loacal variables (please see server/.env.example)
+If you want to set up the server alone you will need to set up your loacal variables (please see server/.env.example) and your own instance of MongoDB.
 
 
 To set up both the client and server:
