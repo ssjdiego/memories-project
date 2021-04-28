@@ -15,4 +15,5 @@ If you want to set up the server alone you will need to set up your loacal varia
 
 
 To set up both the client and server:
+
 run npm i && npm start for both client and server side to start the app
