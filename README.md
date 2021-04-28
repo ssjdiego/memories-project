@@ -6,6 +6,7 @@ This website is being hosted on https://memories-2021.netlify.app/
 Setup:
 
 You can run the client locally with this command:
+
 run npm i && npm start
 It will call this api hosted on heroku: https://memories-posts-2021.herokuapp.com/posts
 
